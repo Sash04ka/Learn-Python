@@ -1,0 +1,9 @@
+# virtual-env
+.venv/
+
+# python byte-code
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
